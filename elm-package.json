@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Use Internet Time units and convert Time to Internet Time.",
-    "repository": "https://github.com/dzuk-mutant/InternetTime.git",
+    "repository": "https://github.com/dzuk-mutant/internettime.git",
     "license": "MIT",
     "source-directories": [
         "src"
