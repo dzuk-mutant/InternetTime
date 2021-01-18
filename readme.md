@@ -1,5 +1,7 @@
 # Internet Time
 
+**[Go to this package](https://github.com/dzuk-mutant/internet-time-elm) for a much better version of this module that's compatible with more recent Elm versions.**
+
 The Elm module nobody asked for. Convert `Time` into Internet Time, both as Internet Time units (like beat and centibeat) and as properly-formatted strings for display.
 
 It's pretty small, there's just one file and the documentation is all there.
